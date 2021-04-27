@@ -1,0 +1,4 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  C++试验.cpp
+D:\桌面\vs试验\C++试验\C++试验\C++试验.cpp(8,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  C++试验.vcxproj -> D:\桌面\vs试验\C++试验\x64\Debug\C++试验.exe
